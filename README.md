@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hi there, I'm Rohan Singh Bisht 👋
+# Hi there, I'm Rohan Singh Bisht 
 
 ### BCA AI & DS | Python | Machine Learning | Open Source
 
