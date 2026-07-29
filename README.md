@@ -14,17 +14,17 @@ I'm a BCA (Hons.) Artificial Intelligence & Data Science student passionate abou
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🎓 Currently pursuing **BCA (Hons.) in Artificial Intelligence & Data Science**
-- 🔭 Currently working on personal Python & ML projects
-- 🌱 Learning more about **Machine Learning**, **Data Science**, and **Open Source contribution**
-- 💡 Interested in building practical, real-world software rather than just theory
-- 📫 Reach me at **ROHNisDEVING@outlook.com**
+- Currently pursuing **BCA (Hons.) in Artificial Intelligence & Data Science**
+- Currently working on personal Python & ML projects
+- Learning more about **Machine Learning**, **Data Science**, and **Open Source contribution**
+- Interested in building practical, real-world software rather than just theory
+- Reach me at **ROHNisDEVING@outlook.com**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -41,7 +41,7 @@ I'm a BCA (Hons.) Artificial Intelligence & Data Science student passionate abou
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 - **[Mini-Games](https://github.com/rohn-dev/Mini-Games)** — A collection of small games built for practice and fun.
 - **[Python-Projects-](https://github.com/rohn-dev/Python-Projects-)** — A set of Python scripts and mini-projects covering various concepts.
@@ -51,7 +51,7 @@ I'm a BCA (Hons.) Artificial Intelligence & Data Science student passionate abou
 
 
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohn-dev&theme=tokyonight" />
@@ -63,7 +63,7 @@ I'm a BCA (Hons.) Artificial Intelligence & Data Science student passionate abou
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 
 <p align="left">
   <a href="mailto:ROHNisDEVING@outlook.com">
