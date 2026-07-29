@@ -51,13 +51,10 @@ I'm a BCA (Hons.) Artificial Intelligence & Data Science student passionate abou
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rohn-dev&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=rohn-dev&theme=github-dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=rohn-dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
-
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohn-dev&layout=compact&theme=github_dark&hide_border=true" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohn-dev&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
 </p>
 
 ---
