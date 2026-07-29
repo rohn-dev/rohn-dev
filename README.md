@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hi there, I'm Rohan Singh Bisht 
+# Hi there, I'm Rohan Singh Bisht
 
 ### BCA AI & DS | Python | Machine Learning | Open Source
 
@@ -50,11 +50,10 @@ I'm a BCA (Hons.) Artificial Intelligence & Data Science student passionate abou
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rohn-dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohn-dev&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rohn-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&cache_seconds=86400" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohn-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="42%"/>
 </p>
 
 ---
@@ -81,4 +80,3 @@ I'm a BCA (Hons.) Artificial Intelligence & Data Science student passionate abou
 *Thanks for stopping by — feel free to explore my repositories and reach out!*
 
 </div>
-
