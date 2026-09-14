@@ -38,7 +38,6 @@ I study Artificial Intelligence & Data Science, but most of what I've learned ca
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 ---
@@ -56,9 +55,9 @@ Small worlds, built to see what happens inside them.
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohn-dev&theme=tokyonight" alt="GitHub profile summary"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohn-dev&theme=tokyo-night" width="90%" alt="GitHub activity graph"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=rohn-dev&theme=nord&no-frame=true&row=1" alt="GitHub trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohn-dev&theme=github" alt="GitHub profile summary"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohn-dev&bg_color=00000000&color=808080&line=808080&point=595959&hide_border=true" width="90%" alt="GitHub activity graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rohn-dev&theme=gitdimmed&no-frame=true&row=1" alt="GitHub trophies"/>
 </p>
 
 ---
