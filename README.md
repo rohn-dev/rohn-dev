@@ -4,27 +4,29 @@
 
 <div align="center">
 
-# Hi there, I'm Rohan Singh Bisht
+# Rohan Singh Bisht
 
-### BCA AI & DS | Python | Machine Learning | Open Source
+### BCA (Hons.) Artificial Intelligence & Data Science
 
-I'm a BCA (Hons.) Artificial Intelligence & Data Science student passionate about building practical software, exploring machine learning, and continuously improving as a developer.
+*Somewhere between a dataset and a dream, I build things that work.*
 
 </div>
 
 ---
 
-###  About Me
+### About Me
 
-- Currently pursuing **BCA (Hons.) in Artificial Intelligence & Data Science**
-- Currently working on personal Python & ML projects
-- Learning more about **Machine Learning**, **Data Science**, and **Open Source contribution**
-- Interested in building practical, real-world software rather than just theory
-- Reach me at **ROHNisDEVING@outlook.com**
+I study Artificial Intelligence & Data Science, but most of what I've learned came from taking things apart — code, ideas, assumptions — and seeing what still stands afterward.
+
+- Pursuing **BCA (Hons.) in Artificial Intelligence & Data Science**
+- Building personal **Python** and **Machine Learning** projects, slowly and deliberately
+- Drawn to **open source** as a way of thinking out loud in public
+- More interested in software that does something than software that says something
+- Reachable at **[ROHNisDEVING@outlook.com](mailto:ROHNisDEVING@outlook.com)**
 
 ---
 
-###  Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -41,29 +43,27 @@ I'm a BCA (Hons.) Artificial Intelligence & Data Science student passionate abou
 
 ---
 
-###  Featured Projects
+### Featured Projects
 
-- **[Mini-Games](https://github.com/rohn-dev/Mini-Games)** — A collection of small games built for practice and fun.
-- **[Python-Projects-](https://github.com/rohn-dev/Python-Projects-)** — A set of Python scripts and mini-projects covering various concepts.
-- **[Student-Dashboard-UI](https://github.com/rohn-dev/Student-Dashboard-UI)** — A UI for a student dashboard.
+Small worlds, built to see what happens inside them.
+
+- **[Mini-Games](https://github.com/rohn-dev/Mini-Games)** — A collection of small games, built for the pleasure of finishing something.
+- **[Python-Projects-](https://github.com/rohn-dev/Python-Projects-)** — A set of scripts and experiments, each one a question I wanted answered.
+- **[Student-Dashboard-UI](https://github.com/rohn-dev/Student-Dashboard-UI)** — An interface for a student dashboard, built with the user's attention in mind.
 
 ---
 
-
-
-###  GitHub Stats
+### GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohn-dev&theme=tokyonight" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohn-dev&theme=tokyo-night" width="90%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=rohn-dev&theme=nord&no-frame=true&row=1" />
-
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohn-dev&theme=tokyonight" alt="GitHub profile summary"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohn-dev&theme=tokyo-night" width="90%" alt="GitHub activity graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rohn-dev&theme=nord&no-frame=true&row=1" alt="GitHub trophies"/>
 </p>
 
 ---
 
-###  Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="mailto:ROHNisDEVING@outlook.com">
@@ -82,6 +82,6 @@ I'm a BCA (Hons.) Artificial Intelligence & Data Science student passionate abou
 
 <div align="center">
 
-*Thanks for stopping by — feel free to explore my repositories and reach out!*
+*If you've read this far, you already know more about me than most conversations manage. The repositories say the rest.*
 
 </div>
